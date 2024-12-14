@@ -71,8 +71,6 @@ footer {
     color: #333;
 }
 
-.credit:before {
-    content: "❤️";
+.credit span {
     color: red;
-    margin-right: 5px;
 }
