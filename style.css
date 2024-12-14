@@ -56,3 +56,10 @@ button:hover {
 input[readonly] {
     background-color: #e9ecef;
 }
+
+.credit {
+    font-size: 12px;
+    color: #888;
+    text-align: center;
+    margin-top: 20px;
+}
