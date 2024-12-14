@@ -68,5 +68,11 @@ footer {
 
 .credit {
     font-size: 14px;
-    color: #333; /* Adjust color as needed */
+    color: #333;
+}
+
+.credit:before {
+    content: "❤️";
+    color: red;
+    margin-right: 5px;
 }
